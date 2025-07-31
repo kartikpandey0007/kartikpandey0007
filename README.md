@@ -1,4 +1,5 @@
 About Me
+
 I am Kartik Pandey, a passionate and results-driven Software Engineering student at Delhi Technological University with a solid foundation in Data Structures, Algorithms, and Full-Stack Development. I specialize in building AI-powered applications, automation tools, and developer-focused platforms.
 
 My work includes innovative projects like DevConnect, a platform for connecting developers with similar coding interests , and several intelligent code tools that demonstrate my knack for blending AI with real-world tech. With strong expertise in JavaScript, React, Node.js, C/C++, and MongoDB, I build scalable, user-friendly applications with real impact.
