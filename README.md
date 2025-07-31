@@ -1,4 +1,4 @@
-🧑‍💻 About Me
+💫 About Me
 
 I am Kartik Pandey, a passionate and results-driven Software Engineering student at Delhi Technological University with a solid foundation in Data Structures, Algorithms, and Full-Stack Development. I specialize in building AI-powered applications, automation tools, and developer-focused platforms.
 
@@ -6,7 +6,7 @@ My work includes innovative projects like DevConnect, a platform for connecting 
 
 I’ve solved 450+ coding problems across platforms like LeetCode, CodeStudio, GFG. I’ve also participated in multiple hackathons, showcasing my skills in problem-solving, backend development, and teamwork. These experiences have helped me grow as a developer, collaborate effectively under pressure, and build innovative tech solutions in limited time.
 Whether it's optimizing backend logic, building intelligent browser extensions, or contributing to open-source projects, I’m always seeking opportunities to innovate and push boundaries in tech.
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kartik-pandey-47b5aa238/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kartikkpandey321@gmail.com) 
 
