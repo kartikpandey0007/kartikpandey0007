@@ -1,4 +1,4 @@
-About Me
+🧑‍💻 About Me
 
 I am Kartik Pandey, a passionate and results-driven Software Engineering student at Delhi Technological University with a solid foundation in Data Structures, Algorithms, and Full-Stack Development. I specialize in building AI-powered applications, automation tools, and developer-focused platforms.
 
